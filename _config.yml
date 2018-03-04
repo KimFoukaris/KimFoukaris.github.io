@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Act Three
 header-img: img/home-bg.png
 email: kimfoukaris@outlook.com
 copyright_name: KimFoukaris
 description: > # this means to ignore newlines until "baseurl:"
-  
+  From engineering to international aid and back
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  KimFoukaris
